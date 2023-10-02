@@ -43,9 +43,6 @@ I'm a BTech IT student with a passion for Web Development. Welcome to my GitHub 
 </p>
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devayanm&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devayanm)](https://git.io/streak-stats)
 [![Devayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devayanm)](https://github.com/anuraghazra/github-readme-stats)
