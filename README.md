@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devayanm)](https://git.io/streak-stats)
-[![Devayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devayanm)]
+[![Devayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devayanm)](https://github.com/anuraghazra/github-readme-stats)
