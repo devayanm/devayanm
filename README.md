@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Header -->
 <p align="center">
-  <img src="your-profile-image-url.jpg" alt="Your Name" width="200"/>
+  <img src="your-profile-image-url.jpg" alt="Devayan Mandal" width="200"/>
 </p>
 
 # Hi there, I'm Devayan Mandal 👋
@@ -45,6 +45,7 @@ I'm a BTech IT student with a passion for Web Development. Welcome to my GitHub 
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devayanm)](https://git.io/streak-stats)
+
 [![Devayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=devayanm)](https://github.com/anuraghazra/github-readme-stats)
 
 
