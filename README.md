@@ -34,13 +34,6 @@ I'm a BTech IT student with a passion for Web Development. Welcome to my GitHub 
 - Currently, I'm diving deep into Full Stack Web Development.
 - Excited to master Blockchain development next.
 
-## 🛠️ My Toolbox
-<p align="center">
-  <img src="icons/html5.png" alt="HTML5" width="40"/>
-  <img src="icons/css3.png" alt="CSS3" width="40"/>
-  <img src="icons/javascript.png" alt="JavaScript" width="40"/>
-  <!-- Add more icons for the technologies you use -->
-</p>
 
 ## 📈 GitHub Stats
 
@@ -50,16 +43,12 @@ I'm a BTech IT student with a passion for Web Development. Welcome to my GitHub 
 
 
 ## 🚀 Projects
-- Here are some of my notable projects:
-  - [Project 1](link-to-project-1): Description of Project 1.
-  - [Project 2](link-to-project-2): Description of Project 2.
 
 
 ## 📫 Connect with Me
 - Let's connect and collaborate:
-  - [LinkedIn](https://www.linkedin.com/in/your-profile/)
-  - [Twitter](https://twitter.com/your-handle)
-  - [Website](https://yourwebsite.com)
+  - [LinkedIn](https://www.linkedin.com/in/devayan-mandal/)
+  - [Website](https://devayan.netlify.app/)
 
 Feel free to explore my repositories and don't hesitate to reach out. I'm always up for exciting projects and discussions!
 
