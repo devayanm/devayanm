@@ -35,6 +35,8 @@ I'm a BTech IT student with a passion for Web Development. Welcome to my GitHub 
 - Excited to master Blockchain development next.
 
 
+  [![An image of @devayanm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devayanm)](https://holopin.io/@devayanm)
+
 ## 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devayanm)](https://git.io/streak-stats)
