@@ -56,7 +56,7 @@ I'm a passionate developer with a love for creating impactful web applications. 
 
 - 🔭 **Currently Working On**: [Solio.io](https://github.com/devayanm/solio.io) - An innovative college app that integrates social media and academic functionalities to enhance the student experience. Includes features like an alumnus connect button, anonymous feedback system, and more.
 - 🌱 **Learning**: Advanced concepts in blockchain development, particularly focusing on smart contracts and decentralized finance (DeFi).
-- 💬 **Ask Me About**: Web Development, Blockchain, Smart Contracts, and Decentralized Applications (DApps).
+- 💬 **Ask Me About**: Web Development, AI/ML, CyberSecurity, Blockchain, Smart Contracts, and Decentralized Applications (DApps).
 - ⚡ **Fun Fact**: I believe in the power of code to change the world and enjoy solving complex problems with simple, elegant solutions.
 
 ---
@@ -124,7 +124,7 @@ A digital certificate management system aimed at simplifying the verification an
 - Easy sharing with institutions and employers
 - Blockchain-based verification
 
-### [MyPortfolio](https://github.com/devayanm/myportfolio)
+### [MyPortfolio](https://github.com/devayanm/Portfolio)
 A personal portfolio showcasing my projects, skills, and achievements. Features include:
 - Interactive project showcase
 - Responsive design
