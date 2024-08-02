@@ -1,7 +1,18 @@
 ![MasterHead](./github-header.png)
 
 <h1 align="center">Heyyy 👋, I'm Devayan Mandal!</h1>
-<h3 align="center"> Full Stack Developer | Blockchain Enthusiast | Open Source Contributor </h3>
+<h3 align="center">
+  Full Stack Developer | Blockchain Enthusiast | AI/ML | CyberSecurity | Open Source Contributor
+</h3>
+<p align="center">
+  🚀 Passionate about creating impactful digital solutions and exploring the frontiers of technology.
+</p>
+<p align="center">
+  🌟 Currently diving deep into <strong>Full Stack Development</strong> and exploring the transformative potential of <strong>Blockchain</strong>, <strong>AI/ML</strong>, and <strong>Cybersecurity</strong>.
+</p>
+<p align="center">
+  📚 Actively learning and contributing to the world of <strong>Open Source</strong> while staying on top of the latest tech trends and innovations.
+</p>
 
 <p align="center">
   <a href="https://devayan.netlify.app/" target="_blank">
@@ -10,7 +21,7 @@
   <a href="mailto:devayan9689@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
   </a>
-  <a href="https://github.com/DevayanM" target="_blank">
+  <a href="https://github.com/Devayanm" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/devayan-mandal/" target="_blank">
@@ -19,16 +30,20 @@
   <a href="https://twitter.com/DevayanM" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.facebook.com/devayan.mandal" target="_blank">
+  <a href="https://www.facebook.com/iamdevayan" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/devayan.mandal" target="_blank">
+  <a href="https://instagram.com/iamdevayan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://devayanm.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FF6F61?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
   </a>
 </p>
 
 
-<p align="left">
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=devayanm&label=Profile%20views&color=0e75b6&style=flat" alt="devayanm" />
   <img src="https://img.shields.io/github/followers/devayanm?label=Followers" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/devayanm?label=Stars" alt="GitHub stars" />
@@ -84,7 +99,9 @@ I'm a passionate developer with a love for creating impactful web applications. 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Apache_Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
+
 
 ---
 
@@ -107,6 +124,12 @@ A digital certificate management system aimed at simplifying the verification an
 - Easy sharing with institutions and employers
 - Blockchain-based verification
 
+### [MyPortfolio](https://github.com/devayanm/myportfolio)
+A personal portfolio showcasing my projects, skills, and achievements. Features include:
+- Interactive project showcase
+- Responsive design
+- Blog integration
+
 ### [More Projects](https://github.com/devayanm?tab=repositories)
 Explore more of my projects on GitHub!
 
@@ -125,7 +148,7 @@ Explore more of my projects on GitHub!
 </p>
 
 ## ✍️ Random Dev Quote
-<p align="left">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
