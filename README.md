@@ -1,111 +1,158 @@
 ![MasterHead](./github-header.png)
 
-<h1 align="center">Hi there! 👋 I'm Devayan Mandal</h1>
-<h3 align="center">A Passionate Full Stack Developer and Blockchain Enthusiast</h3>
+<h1 align="center">Heyyy 👋, I'm Devayan Mandal!</h1>
+<h3 align="center"> Full Stack Developer | Blockchain Enthusiast | Open Source Contributor </h3>
 
 <p align="center">
-  <a href="https://devayan.netlify.app/">Portfolio Website</a> |
-  <a href="mailto:devayan.mandal@example.com">Contact Me</a>
+  <a href="https://devayan.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio Website" />
+  </a>
+  <a href="mailto:devayan9689@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
+  </a>
+  <a href="https://github.com/DevayanM" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/devayan-mandal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/DevayanM" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.facebook.com/devayan.mandal" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/devayan.mandal" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devayanm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/devayanm?label=Followers&style=social" alt="GitHub followers" />
-</p>
 
----
-
-## 💫 About Me
-- 🔭 **Currently Working On:** A decentralized platform for asset management called *AssetHub*.
-- 🌱 **Learning:** Open-CV, Artificial Intelligence, and Machine Learning.
-- 💬 **Ask Me About:** Web Development, Blockchain, Full Stack Development, React.js, and Node.js.
-- 📧 **Reach Out:** [devayan.mandal@example.com](mailto:devayan.mandal@example.com)
-- ⚡ **Fun Fact:** I love experimenting with new recipes as much as I enjoy coding! & I am what I am because of who we all are.
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/devayan-mandal/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/your_username"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://twitter.com/your_username"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</p>
-
----
-
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/ethereum-%232E86DE.svg?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devayanm&label=Profile%20views&color=0e75b6&style=flat" alt="devayanm" />
+  <img src="https://img.shields.io/github/followers/devayanm?label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/devayanm?label=Stars" alt="GitHub stars" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 About Me
+I'm a passionate developer with a love for creating impactful web applications. Currently, I'm diving deep into Full Stack Web Development and Blockchain technologies.
+
+- 🔭 **Currently Working On**: [Solio.io](https://github.com/devayanm/solio.io) - An innovative college app that integrates social media and academic functionalities to enhance the student experience. Includes features like an alumnus connect button, anonymous feedback system, and more.
+- 🌱 **Learning**: Advanced concepts in blockchain development, particularly focusing on smart contracts and decentralized finance (DeFi).
+- 💬 **Ask Me About**: Web Development, Blockchain, Smart Contracts, and Decentralized Applications (DApps).
+- ⚡ **Fun Fact**: I believe in the power of code to change the world and enjoy solving complex problems with simple, elegant solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</p>
+
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Truffle-5E6E01?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+</p>
+
+---
+
+## 🚀 Projects
+### [Solio.io](https://github.com/devayanm/solio.io)
+A comprehensive college app designed to streamline communication and resources for students. Features include:
+- Social media integration
+- Anonymous feedback and complaint system
+- Academic tools like attendance reports and class schedules
+
 ### [AssetHub](https://github.com/devayanm/assethub)
-A DApp for decentralized asset management, leveraging the Ethereum blockchain for secure and transparent transactions.
+A blockchain-based DApp for asset management. Features include:
+- Asset registration and verification
+- Marketplace for buying, selling, and renting assets
+- Auction and bidding functionalities
 
-### [Project Name 2](#)
-A brief description of the project and its purpose. Highlight key technologies and functionalities.
+### [Pramaanpatra](https://github.com/devayanm/pramaanpatra)
+A digital certificate management system aimed at simplifying the verification and storage of certificates. Key features:
+- Secure storage and retrieval of digital certificates
+- Easy sharing with institutions and employers
+- Blockchain-based verification
 
-### [Project Name 3](#)
-A brief description of the project and its purpose. Highlight key technologies and functionalities.
+### [More Projects](https://github.com/devayanm?tab=repositories)
+Explore more of my projects on GitHub!
 
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devayanm&show_icons=true&theme=radical&hide_border=false" alt="Devayan's GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=devayanm&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devayanm&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=devayanm&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="Devayan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devayanm&theme=gotham&hide_border=false" alt="Devayan's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devayanm&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
-
----
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devayanm&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=devayanm&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4" alt="Devayan's GitHub Trophies" />
+</p>
+
+## ✍️ Random Dev Quote
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
 
-<!-- ## ✍️ Random Dev Quote
-<p align="center">
-   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote" /> 
-</p> -->
+## 🎓 Education
+- **Bachelor of Technology in Information Technology**
+  - JIS College of Engineering (2021-2025)
+  - Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Development, Blockchain Technology
 
 ---
 
-## 🐱‍💻 Holopin Badges
-<p align="center">
-  <a href="https://holopin.io/@devayanm"><img src="https://holopin.me/devayanm" alt="Holopin Badges" /></a>
-</p>
+
+## 🌟 Interests
+- **Blockchain Technology**: Passionate about decentralized systems and the future of Web3.
+- **Artificial Intelligence**: Exploring AI's potential to revolutionize various industries.
+- **Open Source Contribution**: Actively contributing to open-source projects and communities.
+- **Photography**: Capturing moments and landscapes in my free time.
 
 ---
 
-<!-- ## 📚 Blogs
-- [My Journey with Blockchain](#)
-- [10 Tips for Web Development](#)
-- [Understanding React Hooks](#) -->
+## 🔗 Links
+- [Portfolio Website](https://devayan.netlify.app/)
+- [GitHub](https://github.com/devayanm)
+- [LinkedIn](https://www.linkedin.com/in/devayan-mandal/)
+- [Blog](https://devayanm.hashnode.dev/)
 
 ---
 
-## 🛠️ Tools I Use
-<p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-</p>
-
----
-
-## 🎨 Design Philosophy
-I believe in creating **intuitive**, **accessible**, and **beautiful** user experiences. My work is driven by a passion for **innovation** and a commitment to **quality**.
+*Let's build the future, one line of code at a time.* 🚀
